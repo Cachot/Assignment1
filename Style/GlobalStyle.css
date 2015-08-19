@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+
+#Main_Content {
+	background-color: #FF0;
+}
+#Banner_Section {
+	font-size: 36px;
+	background-color: #0FF;
+	border: medium solid #9CF;
+	font-family: "Comic Sans MS", cursive;
+	text-align: center;
+	font-style: italic;
+	font-weight: 800;
+	font-variant: small-caps;
+	color: #00F;
+}
+#Nav_Bar {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	background-color: #CFF;
+	border: medium double #90F;
+	font-style: italic;
+	font-weight: bolder;
+	color: #000;
+}
+#Body_Section {
+	font-family: Verdana, Geneva, sans-serif;
+	background-color: #09F;
+	border: medium double #000000;
+}
+#Footer_Section {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	background-color: #999;
+	border: thin;
+	text-align: center;
+	font-style: italic;
+	padding-top: 1em;
+	padding-bottom: lem;
+}
+h1 {
+	font-size: 28px;
+	color: #C03;
+	font-family: Verdana, Geneva, sans-serif;
+	font-style: oblique;
+	font-weight: bold;
+	font-variant: normal;
+}
+h2 {
+	font-size: 24px;
+	color: #903;
+	font-family:"Comic Sans MS", cursive;
+	font-style:italic;
+}
+h3 {
+	font-size: 24px;
+	color: #00F;
+	font-style:italic;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+h4 {
+	font-size: 16px;
+	font-style: italic;
+	color: #60C;
+}
+.p1_style {
+	font-size: 16px;
+	color: #C00;
+	text-align: justify;
+}
+.p2_style {
+	font-size: 16px;
+	color: #C60;
+	text-align: justify;
+}
+.p3_style {
+	font-size: 16px;
+	color: #FC0;
+	text-align: justify;
+}
+.p4_style {
+	font-size:16px;
+	color: #060;
+	text-align: justify;
+}
+.p5_style {
+	font-size:16px;
+	color: #006;
+	text-align: justify;
+}
+.p6_style {
+	font-size:16px;
+	color: #909;
+	text-align: justify;
+}
